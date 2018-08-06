@@ -64,5 +64,5 @@ Most of the parameters are transformed with BCPTConvert script
 * **numBiopsy** - integer greater than 0
 * **hyperPlasia** - 0 - no, 1- yes
 * **firstDegreeRel** - integer
-* **race** always = 1 
+* **race** - always = 1 
 
